@@ -1,0 +1,11 @@
+[package]
+name = "shields-io"
+description = "A simple shields.io badge generator"
+license = "MIT"
+version = "0.1.0"
+authors = ["John Meow <j0hn.meow@ya.ru>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
